@@ -1,0 +1,5 @@
+# Ignore terraform.exe
+terraform.exe
+
+# Ignore all .exe files inside .terraform/providers directory and subdirectories
+.terraform/providers/**/*.exe
