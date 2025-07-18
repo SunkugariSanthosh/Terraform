@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIAST56CD2WFTY7CZQO"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 resource "aws_instance" "my_ec2" {
     ami = "ami-0a1235697f4afa8a4"
