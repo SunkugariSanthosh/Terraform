@@ -1,2 +1,1 @@
-Access key = AKIAST56CD2WFTY7CZQO
-Secret access key = 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
+
